@@ -1,1 +1,74 @@
-
+{
+    "metadata": {
+      "pluginid": "ac-MicroFocus ALM QC-software-enterprise-plugin-1.0",
+      "artifactId": "ac-MicrofFocus ALM QC-software-enterprise-plugin",
+      "groupId": "com.agilityconnect.deployit.plugins",
+      "version": "1.0",
+      "name": "MicroFocus ALM QC",
+      "supportedBy": "Digital.ai",
+      "author": {
+        "author": [
+          "Digital.ai"
+        ],
+        "Community": [],
+        "Partner": []
+      },
+      "categories": [
+        "Cloud", "JIRA on Premises", "JIRA Service Management"
+      ],
+      "description": "MicroFocus ALM QC: We support bi-directional mappings for story to requirements and defect to defect between Agility & QM QC\nThis complete cycle of relationship between requirements and defects between agility and quality center is beautifully seen between both the systems and the complete history regarding each work item, be created or update would be maintained in the view log page of agility connect. \nDigital.ai Agility Connect is an enterprise integration solution for integrating Digital.ai Agility with other ALM tools such as MicforFocus ALM QC. Agility Connect extends the capabilities of the Continuum Plugins and Webhooks to create an integration that lets you have the fields of specific assets synchronized between the integrated tools. Agility Connect supports a project-level asset mapping for such synchronization.",
+      
+	  "features": [
+        "Live Data Sync",
+        "Data Migration",
+        "Resync",
+        "Relationships and Dependencies sync",
+        "Sync Specific Workitems",
+        "Workitem Change detection"
+      ],
+      "links": [
+        {
+          "name": "Website",
+          "url": "https://www.microfocus.com"
+        },
+        {
+          "name": "Documentation",
+          "url": "https://docs.digital.ai/bundle/agility-agility-connect/page/Content/Agility-Micro_Focus_ALM_QC_Integration/Agility-Micro_Focus_ALM_QC_Integration.htm"
+        }
+      ],
+      "maturity": "Incubating",
+      "requirements": {
+        "product": "Agility",
+        "versions": [
+          "15.X",
+          "16.X"
+        ]
+      },
+      "screenshots": [
+		  {
+			"name": "Configure",
+			"url": "screenshots/microfocus/1.png"
+		  },
+		  {
+			"name": "Additional Mapping",
+			"url": "screenshots/microfocus/2.png"
+		  },
+		  {
+			"name": "Final Mapping",
+			"url": "screenshots/microfocus/3.png"
+		  },
+		  {
+			"name": "Preview and Integrate",
+			"url": "screenshots/microfocus/4.png"
+		  }
+	  ],
+      "updatedDate": "2022-02-21",
+      "logo": "icon/ac-MicrofFocus ALM QC-software-enterprise-plugin.png",
+      "popularity": "5",
+      "rating": "3",
+      "reviewed": "",
+      "capability": [
+        "HP ALM QC, MicroFocus ALM QC"
+      ]
+    }
+  }
