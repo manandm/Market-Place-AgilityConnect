@@ -1,0 +1,22 @@
+{
+    "metadata": {
+      "pluginid": "AC-servicenow-plugin-1.0",
+      "steps": [
+        {"name": "Configure Integration",
+          "description": " Click Create Mapping from the Mappings List page. The Create Mapping page appears. Name the integration and select the applications, projects, and asset types you want to integrate."
+        },
+        {
+          "name": "Create Field Mapping",
+          "description": "The Field Mapping page lets you map the fields of the assets (Stories, Epics, etc.) from the two applications that are being integrated. There are two drop-down lists, one each to the left and right-hand sides of the forward/backward mapping arrows."
+        },
+        {
+          "name": "Configure Additional Mapping",
+          "description": "Once you map your fields, you can configure additional mapping for specific use cases as discussed in the Additional Mapping / Common Mapping Use Cases guide. \nSome of the Additional Mapping features may not be available for the tools you integrate."
+        },
+        {
+          "name": "Preview and Integrate",
+          "description": "At this stage, you can click Edit and fine-tune your mappings, if required. You can also choose to update the mapping direction."
+        }
+      ]
+    }
+  }
