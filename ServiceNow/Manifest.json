@@ -1,1 +1,76 @@
-
+{
+  "metadata": {
+    "pluginid": "AC-servicenow-plugin-1.0",
+    "artifactId": "AC-servicenow-plugin",
+    "groupId": "com.agiityconnect.agility.plugins",
+    "version": "1.0",
+    "updatedDate": "2021-10-06",
+    "logo": "icon/xlr-servicenow-plugin.png",
+    "popularity": "5",
+    "rating": "5",
+    "reviewed": "100",
+    "capability": [
+      "IT service management",
+      "Project Management",
+      "Service Ticket Management"
+    ],
+    "categories": [
+      "IT service management",
+      "Project Management",
+      "Service Ticket Management"
+    ],
+    "description": "Agility ServiceNow integration with data synchronization. Automatically sync Agility projects and issues. Real-time, automatic, two-way sync. \n Integrate Agility and ServiceNow (Snow). Integrate and synchronize issues, tasks, custom fields. Enjoy the flexibility in configuring your synchronization.\n Synchronize data between Agility and ServiceNow (Snow) (f.e. If a user creates an issue in Agility then the app creates an incident in ServiceNow). \nWith this integration, you can: \nautomatically sync data (comments, custom fields) between Agility and ServiceNow \nsync statuses \nsync comments (including/excluding private ones) \nsynchronize issues, incidents, tickets \nspecify what data are synced, and which aren't (f.e. by adding a special label) \navoid data loss, don't waste precious time of your teams.",
+	
+    "features": [      "Live Data Sync",
+      "Data Integrity",
+      "Resync",
+      "Relationships and Dependencies sync",
+      "Sync Specific Workitems",
+      "Workitem Change detection"],
+    "links": [
+      {
+        "name": "Website",
+        "url": "https://www.servicenow.com/"
+      },
+      {
+        "name": "Documentation",
+        "url": "https://docs.digital.ai/bundle/agility-agility-connect/page/Content/Agility_ServiceNow_Integration.htm"
+      }
+    ],
+    "maturity": "Mature",
+    "name": "ServiceNow",
+    "requirements": {
+      "product": "Agility",
+      "versions": [
+        "15.X",
+        "16.X"
+      ]
+    },
+	"screenshots": [
+      {
+        "name": "Configure",
+        "url": "screenshots/servicenow/1.png"
+      },
+      {
+        "name": "Additional Mapping",
+        "url": "screenshots/servicenow/2.png"
+      },
+      {
+        "name": "Final Mapping",
+        "url": "screenshots/servicenow/3.png"
+      },
+      {
+        "name": "Preview and Integrate",
+        "url": "screenshots/servicenow/4.png"
+      }
+    ],
+    "supportedBy": "Digital.ai",
+    "author": {
+      "author": [
+        "Digital.ai"
+      ],
+      "Community": [],
+      "Partner": []
+    }
+  }
+}
