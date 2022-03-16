@@ -1,1 +1,78 @@
-
+{
+  "metadata": {
+    "updatedDate": "2022-02-21",
+    "logo": "icon/ac-JIRA-software-enterprise-plugin.png",
+    "popularity": "5",
+    "rating": "5",
+    "reviewed": "25",
+    "capability": [
+      "Cloud",
+      "JIRA on Premises",
+      "JIRA Service Management"
+    ],
+    "categories": [
+      "Cloud",
+      "JIRA on Premises",
+      "JIRA Service Management"
+    ],
+    "description": "Digital.ai Agility Connect is an enterprise integration solution for integrating Digital.ai Agility with other ALM tools such as JIRA. Agility Connect extends the capabilities of the Continuum Plugins and Webhooks to create an integration that lets you have the fields of specific assets synchronized between the integrated tools. Agility Connect supports a project-level asset mapping for such synchronization.\nIntegrating Agility Software with any Jira tool in the value stream enables bi-directional, free flow of synchronized artifacts between project management and development teams. Developers using Agility Software will have clear visibility into the exact feature requirements and real-time access to any changes or enhancements made to the requirements. All Jira tool users will have a complete view into the development of a requirement. All requirements from the Agility automatically synchronize to Jira Software where they are broken down to stories. The completion of the story and the status of test results against it automatically synchronizes to the Agility./n Integrating Agility with other application development, delivery, and business tools keeps teams and information in sync. Using Agility Connect, you automatically avoid duplicate data entry, time wasted on status calls and decrease your risk of having key requirements missed. This allow you to focus on the real value-adding work of developing new features, resolving defects, closing tech debt, and reducing risk./n Integrate multiple Jira instances that may span Jira Software on premise, Jira Cloud and Jira Data Center or a single Jira that needs to talk to third party tools. /nCommon artifacts flowing in integrations include: Story, Bug, Issue, Epic, Sub-task, Custom Issue, and Custom Sub-task.",
+    "features": [
+      "Live Data Sync",
+      "Data Migration",
+      "Resync",
+      "Relationships and Dependencies sync",
+      "Sync Specific Workitems",
+      "Workitem Change detection"
+    ],
+    "links": [
+      {
+        "name": "Website",
+        "url": "https://atlassian.net/"
+      },
+      {
+        "name": "Documentation",
+        "url": "https://docs.digital.ai/bundle/agility-agility-connect/page/Content/Agility-Jira_Integration/Agility-Jira_Integration.htm"
+      }
+    ],
+    "maturity": "Incubating",
+    "name": "Jira",
+    "requirements": {
+      "product": "Agility",
+      "versions": [
+        "20.X",
+        "21.X",
+        "22.0"
+      ]
+    },
+    "screenshots": [
+      {
+        "name": "Configure",
+        "url": "screenshots/jira/1.png"
+      },
+      {
+        "name": "Additional Mapping",
+        "url": "screenshots/jira/2.png"
+      },
+      {
+        "name": "Final Mapping",
+        "url": "screenshots/jira/3.png"
+      },
+      {
+        "name": "Preview and Integrate",
+        "url": "screenshots/jira/4.png"
+      }
+    ],
+    "supportedBy": "Digital.ai",
+    "author": {
+      "author": [
+        "Digital.ai"
+      ],
+      "Community": [],
+      "Partner": []
+    },
+    "artifactId": "ac-JIRA-software-enterprise-plugin",
+    "groupId": "com.agilityconnect.deployit.plugins",
+    "version": "8.21.0",
+    "pluginid": "ac-JIRA-software-enterprise-plugin-8.21.0"
+  }
+}
