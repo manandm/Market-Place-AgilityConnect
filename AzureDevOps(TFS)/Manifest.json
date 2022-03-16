@@ -1,1 +1,74 @@
-
+ {
+    "metadata": {
+      "pluginid": "ac-Azure DevOps(TFS)-software-enterprise-plugin-1.0",
+      "artifactId": "ac-Azure DevOps (TFS)-software-enterprise-plugin",
+      "groupId": "com.agilityconnect.deployit.plugins",
+      "version": "1.0",
+      "name": "Azure DevOps (TFS)",
+      "supportedBy": "Digital.ai",
+      "author": {
+        "author": [
+          "Digital.ai"
+        ],
+        "Community": [],
+        "Partner": []
+      },
+      "categories": [
+        "Agility Connect", "Agility", "Data Sync"
+      ],
+      "description": "Agility Azure DevOps two-way integration, synchronization. Automatically sync Azure DevOps(TFS) issues with Agility work items. \nAzure DevOps Cloud Jira real-time, automatic sync \nIntegrate, synchronize projects or just changes made to the issues/work items. Define syncing intervals and scenarios. Integrate statues, attachments, comments, custom fields.\nAzure DevOps Cloud to Agility integration, synchronization. Sync Azure DevOps Cloud with Agility. \nAzure DevOps for Agility lets you: \nMove and keep in sync Azure DevOps issues with Agility work items \nTwo-way or one-way synchronization \nSync attachments \nSync comments \nSync statuses",
+      
+	  "features": [
+        "Live Data Sync",
+        "Data Migration",
+        "Resync",
+        "Relationships and Dependencies sync",
+        "Sync Specific Workitems",
+        "Workitem Change detection"
+      ],
+      "links": [
+        {
+          "name": "Website",
+          "url": "https://azure.microsoft.com/"
+        },
+        {
+          "name": "Documentation",
+          "url": "https://docs.digital.ai/bundle/agility-agility-connect/page/Content/Agility_Azure_DevOps_TFS_Integration.htm"
+        }
+      ],
+      "maturity": "Incubating",
+      "requirements": {
+        "product": "Agility",
+        "versions": [
+          "21.X"
+        ]
+      },
+	  "screenshots": [
+		  {
+			"name": "Configure",
+			"url": "screenshots/azure/1.png"
+		  },
+		  {
+			"name": "Additional Mapping",
+			"url": "screenshots/azure/2.png"
+		  },
+		  {
+			"name": "Final Mapping",
+			"url": "screenshots/azure/3.png"
+		  },
+		  {
+			"name": "Preview and Integrate",
+			"url": "screenshots/azure/4.png"
+		  }
+    ],
+      "updatedDate": "2022-01-06",
+      "logo": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/6a669a37-0ef5-41b3-8ea7-449552243735.png",
+      "popularity": "5",
+      "rating": "3",
+      "reviewed": "",
+      "capability": [
+        "Azure work item sync to Agility, Work item management"
+      ]
+    }
+  }
+]
