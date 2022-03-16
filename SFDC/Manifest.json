@@ -1,1 +1,72 @@
-
+{
+    "metadata": {
+      "pluginid": "ac-SalesForce-software-enterprise-plugin-1.0",
+      "artifactId": "ac-SFDC-software-enterprise-plugin",
+      "groupId": "com.agilityconnect.deployit.plugins",
+      "version": "1.0",
+      "name": "SalesForce",
+      "supportedBy": "Digital.ai",
+      "author": {
+        "author": [
+          "Digital.ai"
+        ],
+        "Community": [],
+        "Partner": []
+      },
+      "categories": [
+        "SFDC support case management", "data sync to Agility"
+      ],
+      "description": "Streamline Salesforce and Jira workflows and integrations, reduce complexity and align teams around a single source of truth \nAccurate, complete up-to-date data \nEliminate unreliable data. Auto synchronization, aggregated comments, and many-to-many associations ensure that all issues are up-to-date, consolidated and easily viewable for better decision making and service delivery.Streamline and automate cross-functional workflows \nCreate Agility work items from Salesforce and vice-versa without leaving the platform you use the most. Decrease unproductive context-switching, reduce error-prone manual entry, remove complexity and improve productivity.\nQuick set up and easy to use \nWith easy implementation and unmatched UI, users are often up and running in as little as an hour. Faster access to accurate, real-time account information improves customer conversion, fulfillment and success. \n Improve team collaboration and effectiveness by synchronizing information from Salesforce to the tools across the value stream.",
+      "features": [
+        "Live Data Sync",
+        "Data Migration",
+        "Resync",
+        "Relationships and Dependencies sync",
+        "Sync Specific Workitems",
+        "Workitem Change detection"
+      ],
+      "links": [
+        {
+          "name": "Website",
+          "url": "https://https://www.salesforce.com"
+        },
+        {
+          "name": "Documentation",
+          "url": "https://docs.digital.ai/bundle/agility-agility-connect/page/Content/Agility_Salesforce_Integration.htm"
+        }
+      ],
+      "maturity": "Incubating",
+      "requirements": {
+        "product": "Agility",
+        "versions": [
+          "21.X"
+        ]
+      },
+	  "screenshots": [
+		  {
+			"name": "Configure",
+			"url": "screenshots/salesforce/1.png"
+		  },
+		  {
+			"name": "Additional Mapping",
+			"url": "screenshots/salesforce/2.png"
+		  },
+		  {
+			"name": "Final Mapping",
+			"url": "screenshots/salesforce/3.png"
+		  },
+		  {
+			"name": "Preview and Integrate",
+			"url": "screenshots/salesforce/4.png"
+		  }
+    ],
+      "updatedDate": "2022-02-21",
+      "logo": "https://www.salesforce.com/news/wp-content/uploads/sites/3/2021/05/Salesforce-logo.jpg",
+      "popularity": "5",
+      "rating": "3",
+      "reviewed": "",
+      "capability": [
+        "SFDC case sync to Agility, Support Case Management"
+      ]
+    }
+  }
